@@ -1,4 +1,4 @@
-### Snapshot made on 2 Feb 2021
+# A snapshot of skm made on 2 Feb 2021
 
 ## Synopsis
 
