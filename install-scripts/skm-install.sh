@@ -1,6 +1,6 @@
 #!/bin/bash
 GIT_SKM_REPO=https://github.com/gloryleedu/skm
-#GIT_SKM_REPO=https://github.com/splashkit/skm
+# GIT_SKM_REPO=https://github.com/splashkit/skm
 
 HOME_PATH=~
 INSTALL_PATH="${HOME_PATH}/.splashkit"
